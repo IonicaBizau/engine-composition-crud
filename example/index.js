@@ -19,7 +19,7 @@ crud.read("layout", function (err, data) {
     // => { name: "...", ...}
 });
 
-// Read the layout instance
+// Update the layout instance
 crud.update("layout", { module: "some-module" }, function (err, data) {
     console.log(err || data);
     // => { name: "...", module: "some-module", ...}

@@ -32,7 +32,7 @@ crud.read("layout", function (err, data) {
     // => { name: "...", ...}
 });
 
-// Read the layout instance
+// Update the layout instance
 crud.update("layout", { module: "some-module" }, function (err, data) {
     console.log(err || data);
     // => { name: "...", module: "some-module", ...}
@@ -53,6 +53,18 @@ Checks if an instance exists.
 
 #### Params
 - **String** `name`: The instance name.
+- **Function** `cb`: The callback function.
+
+### `list(cb)`
+List the instances.
+
+#### Params
+- **Function** `cb`: The callback function.
+
+### `readAll(cb)`
+Read all the instances.
+
+#### Params
 - **Function** `cb`: The callback function.
 
 ### `create(name, data, cb)`
