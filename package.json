@@ -30,6 +30,7 @@
     "w-json": "^1.2.0"
   },
   "devDependencies": {
-    "engine-paths": "^1.0.1"
+    "engine-paths": "^1.0.1",
+    "tester": "^1.2.0"
   }
 }
