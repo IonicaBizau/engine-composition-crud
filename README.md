@@ -97,6 +97,14 @@ Removes the instance.
 - **String** `name`: The instance name.
 - **Function** `cb`: The callback function.
 
+### `rename(oldName, newName, cb)`
+Renames the instance.
+
+#### Params
+- **String** `oldName`: The old instance name.
+- **String** `newName`: The new instance name.
+- **Function** `cb`: The callback function.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
