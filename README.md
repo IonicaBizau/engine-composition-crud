@@ -105,6 +105,14 @@ Renames the instance.
 - **String** `newName`: The new instance name.
 - **Function** `cb`: The callback function.
 
+### `upsert(name, data, cb)`
+Creates or updates the specified instance.
+
+#### Params
+- **String** `name`: The instance name.
+- **Object** `data`: The instance content.
+- **Function** `cb`: The callback function.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
