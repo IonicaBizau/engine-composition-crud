@@ -24,6 +24,7 @@
   "homepage": "https://github.com/IonicaBizau/engine-composition-crud#readme",
   "dependencies": {
     "engine-comp-crud-errors": "^1.0.0",
+    "engine-paths": "*",
     "engine-composition-adapter": "^1.0.0",
     "is-there": "^4.3.0",
     "r-json": "^1.1.0",
