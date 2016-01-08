@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/engine-composition-crud.git"
+    "url": "git+ssh://git@github.com/jillix/engine-composition-crud.git"
   },
   "keywords": [
     "engine",
@@ -19,9 +19,9 @@
   "author": "jillix <contact@jillix.com> (http://jillix.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/engine-composition-crud/issues"
+    "url": "https://github.com/jillix/engine-composition-crud/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/engine-composition-crud#readme",
+  "homepage": "https://github.com/jillix/engine-composition-crud#readme",
   "dependencies": {
     "engine-comp-crud-errors": "^1.0.0",
     "engine-paths": "*",
