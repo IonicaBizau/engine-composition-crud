@@ -1,6 +1,6 @@
 {
   "name": "engine-composition-crud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The default module for creating, reading, updating and deleting Engine instances.",
   "main": "lib/index.js",
   "scripts": {

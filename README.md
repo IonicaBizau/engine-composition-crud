@@ -1,6 +1,6 @@
-# engine-composition-crud
+# engine-composition-crud [![Version](https://img.shields.io/npm/v/engine-composition-crud.svg)](https://www.npmjs.com/package/engine-composition-crud) [![Downloads](https://img.shields.io/npm/dt/engine-composition-crud.svg)](https://www.npmjs.com/package/engine-composition-crud)
 
-The default module for creating, reading, updating and deleting Engine instances.
+> The default module for creating, reading, updating and deleting Engine instances.
 
 ## Installation
 
@@ -134,6 +134,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`engine-app`](https://github.com/jillix/engine-app#readme) by jillix
 
 ## License
 
